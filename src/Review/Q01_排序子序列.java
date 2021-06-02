@@ -2,7 +2,7 @@ package Review;
 
 import java.util.Scanner;
 
-public class 第一题_排序子序列 {
+public class Q01_排序子序列 {
     // 把数组A[1 2 3 2 2 1] 划分为 [1 2 3] 和[2 2 1]
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
