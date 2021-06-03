@@ -2,7 +2,7 @@ package Review;
 
 import java.util.Scanner;
 
-public class  Q04_最长的数字串 {
+public class Q06_最长的数字串 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

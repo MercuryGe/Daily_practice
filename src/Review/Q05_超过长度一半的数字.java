@@ -1,6 +1,6 @@
 package Review;
 
-public class Q03_超过长度一半的数字 {
+public class Q05_超过长度一半的数字 {
     // 抵消法
     public static void main(String[] args) {
 

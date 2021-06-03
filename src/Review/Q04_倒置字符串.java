@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q02_倒置字符串 {
+public class Q04_倒置字符串 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while(scanner.hasNext()){
