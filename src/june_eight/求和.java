@@ -6,7 +6,6 @@ public class 求和 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         while(scan.hasNext()){
-
             int n = scan.nextInt(); // 1 ~ n
             int m = scan.nextInt(); //  使和等于m
             for (int i = 1; i <= n; i++) {
